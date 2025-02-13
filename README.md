@@ -36,6 +36,7 @@ nodemon index.js
 The application will be running at *http://localhost:3000*
 
 ## Overview
+![Home Page](public/images/image.png)
 
 ## Contribution
 Feel free to fork the repo and submit a pull request with improvements or additional features!
