@@ -1,14 +1,14 @@
-# Giggleware: Two-Part Joke Generator
+# ✨Giggleware: Two-Part Joke Generator
 
 **Giggleware** is a fun web application built with `Express.js` and `Node.js` that fetches and displays two-part jokes from the **JokeAPI**. The app integrates the public API using `Axios` and dynamically renders jokes using EJS templates.
 
- ## Tech Stack
+ ## 🛠️ Tech Stack
  - Node.js
  - Express.js
  - Axios
  - EJS (Embedded javaScript)
 
-## Get Started
+## 💡 Get Started
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/giggleware.git
@@ -33,15 +33,15 @@ Then start the serve with:
 nodemon index.js
 ```
 
-The application will be running at *http://localhost:3000*
+"The application will be running at *http://localhost:3000*"
 
-## Overview
+## 🔎 Overview
 ![Home Page](public/images/image.png)
 
-## Contribution
+## 🤝 Contribution
 Feel free to fork the repo and submit a pull request with improvements or additional features!
 
-## License
+## 🪪 License
 This project is open-source and available under the MIT License.
 
 **💡 Let's build something awesome together! 🚀**
